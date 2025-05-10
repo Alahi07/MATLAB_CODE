@@ -1,0 +1,18 @@
+clc;clear all;close all;
+x=0:0.1:pi;
+y1=x;
+y2=sin(x);
+y3=cos(x);
+y4=tan(x);
+subplot(2,2,1);
+plot(y1,'r');
+title('subplot of y1');
+subplot(2,2,2);
+plot(y2,'g');
+title('subplot of y2');
+subplot(2,2,3);
+plot(y3,'b');
+title('subplot of y3');
+subplot(2,2,4);
+plot(y4,'y');
+title('subplot of y4');
