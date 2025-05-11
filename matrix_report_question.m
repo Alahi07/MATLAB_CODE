@@ -5,3 +5,4 @@ C=W(3,3)
 D=W(2,2)
 E=A+B
 F= (sqrt(log(abs(C-D))))+sind(B)
+sind(225)+cotd(30)+atand(1/2)+10*exp(-10)+9e-2+(log10(10))^3+(log(10))^5
